@@ -15,7 +15,7 @@
 | **Written On** | May 18, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/no-clue-vibes/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for No Clue Vibes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-clue-vibes/) |
+| **Get License** | [Secure Licensing Rights for No Clue Vibes](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/no-clue-vibes/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Kaale libaas ch tu lagdi wild fire,
+> Main machda haan banke your desire.
+> Tere naina di khamoshi kare loud speak,
+> Main lutt janda haan playing hide and seek.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
